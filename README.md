@@ -74,4 +74,4 @@ The **Advanced Startup Pitch Deck Evaluator** is a comprehensive AI-powered syst
 <summary>📊 Click to view sample visualizations</summary>
 
 **3D Performance Analysis**
-
+    ![alt text]("C:\users\vijay\OneDrive\Pictures\Screenshots\Screenshot 2025-07-24 231954.png")
